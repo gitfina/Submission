@@ -1,10 +1,12 @@
 # Submission
 Proyek Analisis Data
 
-# Setup environment
+## Setup environment
 - pipenv install
 - pipenv shell
 - pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel 
 
-# Run streamlit app
+## Run streamlit app
+...
 streamlit run "c:/Users/Windows 10/Documents/Submission/dash.py"
+...
