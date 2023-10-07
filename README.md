@@ -7,6 +7,6 @@ Proyek Analisis Data
 - pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel 
 
 ## Run streamlit app
-...
-streamlit run "c:/Users/Windows 10/Documents/Submission/dash.py"
-...
+```
+streamlit run dash.py
+```
